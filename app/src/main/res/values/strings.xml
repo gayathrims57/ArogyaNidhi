@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ArogyaNidhi</string>
+
+    <string-array name="occupations_array">
+        <item>Farmer</item>
+        <item>Daily Wage Worker</item>
+        <item>Private Employee</item>
+        <item>Self-Employed</item>
+    </string-array>
+
+    <string-array name="districts_array">
+        <item>Bangalore</item>
+        <item>Mysore</item>
+        <item>Hubli</item>
+        <item>Mangalore</item>
+    </string-array>
+</resources>
